@@ -12,11 +12,10 @@ Prime Flix é um site dedicado a proporcionar uma experiência única de entrete
 
 ## Como Usar
 
-1. Faça login ou crie uma conta no Prime Flix.
-2. Explore a lista de filmes em cartaz ou utilize a barra de pesquisa para encontrar filmes específicos.
-3. Ao encontrar um filme desejado, assista ao trailer para ter uma ideia do conteúdo.
-4. Selecione a opção "Salvar" para adicionar o filme à sua lista personalizada.
-5. Gerencie sua lista, removendo filmes que não deseja mais salvar.
+1. Explore a lista de filmes em cartaz.
+2. Ao encontrar um filme desejado, assista ao trailer para ter uma ideia do conteúdo.
+3. Selecione a opção "Salvar" para adicionar o filme à sua lista personalizada.
+4. Gerencie sua lista, removendo filmes que não deseja mais salvar.
 
 ## Contribuições
 
